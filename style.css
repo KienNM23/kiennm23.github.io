@@ -1,0 +1,26 @@
+.navbar {
+    padding: 1rem;
+    background-color: transparent;
+    transition: .5s;;
+}
+
+.nav-item {
+    margin-bottom: 10px;
+    margin-left: 70px;
+    font-size: 24px;
+}
+
+
+.nav-item:hover {
+    text-decoration: black underline;
+}
+
+.offcanvas-header {
+    display: flex;
+    justify-content: end;
+}
+
+.offcanvas-header .btn-close {
+    margin: 7px;
+    font-size: 24px;
+}
